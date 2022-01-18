@@ -1,0 +1,2 @@
+# Electricity-consumption-prediction-uisng-LSTM
+Electricity demand forecasting is a central and integral process for planning periodical operations and facility expansion in the electricity sector. Demand pattern is almost very complex due to the deregulation of energy markets. Therefore, finding an appropriate forecasting model for a specific electricity network is not an easy task. Although many forecasting methods were developed, none can be generalized for all demand patterns.
